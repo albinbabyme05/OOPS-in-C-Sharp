@@ -17,7 +17,7 @@ namespace AbstractMethod
             undergradStud1.DisplayInformation();
             Console.WriteLine("------------------");
             gradStud1.DisplayInformation();
-            ResearchArea
+            
         }
     }
 }

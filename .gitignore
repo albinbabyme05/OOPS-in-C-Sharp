@@ -72,3 +72,16 @@ Thumbs.db
 .exe
 .dll
 .pdb
+
+# Ignore build output
+**/bin/
+**/obj/
+
+# Ignore user-specific files (optional)
+*.user
+*.suo
+
+# Ignore .exe, .dll, .pdb files (covered by bin/obj, but good to be explicit)
+*.exe
+*.dll
+*.pdb
