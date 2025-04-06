@@ -1,0 +1,14 @@
+D:\Work_Directory\c_sharp_workspace\inhertance\inhertance\bin\Debug\net8.0\inhertance.exe
+D:\Work_Directory\c_sharp_workspace\inhertance\inhertance\bin\Debug\net8.0\inhertance.deps.json
+D:\Work_Directory\c_sharp_workspace\inhertance\inhertance\bin\Debug\net8.0\inhertance.runtimeconfig.json
+D:\Work_Directory\c_sharp_workspace\inhertance\inhertance\bin\Debug\net8.0\inhertance.dll
+D:\Work_Directory\c_sharp_workspace\inhertance\inhertance\bin\Debug\net8.0\inhertance.pdb
+D:\Work_Directory\c_sharp_workspace\inhertance\inhertance\obj\Debug\net8.0\inhertance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Directory\c_sharp_workspace\inhertance\inhertance\obj\Debug\net8.0\inhertance.AssemblyInfoInputs.cache
+D:\Work_Directory\c_sharp_workspace\inhertance\inhertance\obj\Debug\net8.0\inhertance.AssemblyInfo.cs
+D:\Work_Directory\c_sharp_workspace\inhertance\inhertance\obj\Debug\net8.0\inhertance.csproj.CoreCompileInputs.cache
+D:\Work_Directory\c_sharp_workspace\inhertance\inhertance\obj\Debug\net8.0\inhertance.dll
+D:\Work_Directory\c_sharp_workspace\inhertance\inhertance\obj\Debug\net8.0\refint\inhertance.dll
+D:\Work_Directory\c_sharp_workspace\inhertance\inhertance\obj\Debug\net8.0\inhertance.pdb
+D:\Work_Directory\c_sharp_workspace\inhertance\inhertance\obj\Debug\net8.0\inhertance.genruntimeconfig.cache
+D:\Work_Directory\c_sharp_workspace\inhertance\inhertance\obj\Debug\net8.0\ref\inhertance.dll
