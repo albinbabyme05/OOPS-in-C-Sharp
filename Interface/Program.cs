@@ -14,9 +14,11 @@ namespace Interface
 
             Console.WriteLine($"Full name of customer: {customer1.GetFullName()}");
 
-            /*if try to add a method in Customer classs and the method is not defined in INterface*/
+            /*if try to add a method in Customer classs and the method is not defined in INterface- it won't works*/
             //customer1.PrintCustomerDetails()://not possible
 
+
+            /*if we create a object of Customer class then it is possible*/
             Customer customer2 = new Customer(1, "Aline", "Saji", "aline@gmail.com", "15744475550",
                                                 new DateTime(2001, 01, 17), "Fuldearstr 1, Ebersburg");
 
