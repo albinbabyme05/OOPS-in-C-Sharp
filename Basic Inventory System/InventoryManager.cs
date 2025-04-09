@@ -8,6 +8,7 @@ namespace Basic_Inventory_System
 {
     internal class InventoryManager
     {
+
         private List<Items> kart = new List<Items>();
 
         public void AddItem(Items item)
@@ -44,5 +45,6 @@ namespace Basic_Inventory_System
                 Console.WriteLine($"{item} is not found in the list");
             }
         }
+
     }
 }

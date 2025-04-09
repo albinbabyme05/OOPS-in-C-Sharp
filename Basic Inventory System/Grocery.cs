@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Basic_Inventory_System
 {
+
     internal class Grocery : Items
     {
         public Grocery(string name, decimal price, int quantity) : base(name, price, quantity)
@@ -20,5 +21,6 @@ namespace Basic_Inventory_System
             return GetPrice() * GetQuantity() * (1 - off);
             
         }
+
     }
 }

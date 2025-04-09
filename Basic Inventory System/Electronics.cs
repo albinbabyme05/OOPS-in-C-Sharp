@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Basic_Inventory_System
 {
+
     public class Electronics : Items
     {
         
@@ -23,5 +24,6 @@ namespace Basic_Inventory_System
             }
             return GetPrice() * GetQuantity();
         }
+
     }
 }
