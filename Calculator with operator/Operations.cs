@@ -35,7 +35,7 @@ namespace Calculator_with_operator
             }
             else
             {
-                Console.WriteLine("Error: Division by zero");
+                Console.WriteLine("Error: Division by zero is not possible 😔");
                 return 0;
             }
 
