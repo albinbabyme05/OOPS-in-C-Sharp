@@ -6,7 +6,24 @@ using System.Threading.Tasks;
 
 namespace Basic_Inventory_System
 {
-    internal class Electronics
+
+    public class Electronics : Items
     {
+        
+        public Electronics(string name, decimal price, int quantity) : base (name, price, quantity)
+        {
+            
+        }
+
+        public override decimal CalculateDiscountPrice()
+        {
+            decimal off = 0.2m;
+            if (GetPrice() > 500)
+            {
+                return GetPrice() * GetQuantity() * (1 - off);
+            }
+            return GetPrice() * GetQuantity();
+        }
+
     }
 }
