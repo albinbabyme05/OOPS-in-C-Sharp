@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Basic_Inventory_System
 {
+
     public class Items
     {
         private string Name { get; set; }

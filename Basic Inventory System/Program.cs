@@ -1,4 +1,4 @@
-﻿
+
 
 namespace Basic_Inventory_System
 {
