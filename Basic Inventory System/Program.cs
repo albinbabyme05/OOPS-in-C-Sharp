@@ -28,7 +28,9 @@ namespace Basic_Inventory_System
             manager.GetTotal();
 
             Console.WriteLine("===========================");
+
             manager.RemoveItem(mobile2);
+
             Console.WriteLine("===========================");
             manager.ShowAllItem();
             manager.GetTotal();
