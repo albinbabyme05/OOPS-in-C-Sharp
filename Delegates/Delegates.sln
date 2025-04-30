@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "passing_func_As_params", "p
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multicast_Delegates", "Multicast_Delegates\Multicast_Delegates.csproj", "{6105F678-F9B7-4735-897E-12209B92405D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventHanding_Mulicast_Delegate", "EventHanding_Mulicast_Delegate\EventHanding_Mulicast_Delegate.csproj", "{D27E6FF7-0F04-4573-B10B-543615F2834E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{6105F678-F9B7-4735-897E-12209B92405D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6105F678-F9B7-4735-897E-12209B92405D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6105F678-F9B7-4735-897E-12209B92405D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D27E6FF7-0F04-4573-B10B-543615F2834E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D27E6FF7-0F04-4573-B10B-543615F2834E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D27E6FF7-0F04-4573-B10B-543615F2834E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D27E6FF7-0F04-4573-B10B-543615F2834E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
