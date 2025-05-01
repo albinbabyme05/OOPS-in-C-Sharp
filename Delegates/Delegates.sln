@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multicast_Delegates", "Mult
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventHanding_Mulicast_Delegate", "EventHanding_Mulicast_Delegate\EventHanding_Mulicast_Delegate.csproj", "{D27E6FF7-0F04-4573-B10B-543615F2834E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationSystem", "Calculator with Delegates\NotificationSystem.csproj", "{C42AEF77-6DCA-4330-A9E8-BD20D3C62384}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{D69573F3-AF14-41BB-A772-5E1BB72E770F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{D27E6FF7-0F04-4573-B10B-543615F2834E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D27E6FF7-0F04-4573-B10B-543615F2834E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D27E6FF7-0F04-4573-B10B-543615F2834E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C42AEF77-6DCA-4330-A9E8-BD20D3C62384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C42AEF77-6DCA-4330-A9E8-BD20D3C62384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C42AEF77-6DCA-4330-A9E8-BD20D3C62384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C42AEF77-6DCA-4330-A9E8-BD20D3C62384}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D69573F3-AF14-41BB-A772-5E1BB72E770F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D69573F3-AF14-41BB-A772-5E1BB72E770F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D69573F3-AF14-41BB-A772-5E1BB72E770F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D69573F3-AF14-41BB-A772-5E1BB72E770F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
