@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationSystem", "Calcu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{D69573F3-AF14-41BB-A772-5E1BB72E770F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Temperature_Alter_System", "Temperature_Alter_System\Temperature_Alter_System.csproj", "{069234FD-1435-449C-9367-3E599A335A0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discounts", "Discounts\Discounts.csproj", "{E70A43D9-EF70-4977-85EE-9B3ECD947133}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{D69573F3-AF14-41BB-A772-5E1BB72E770F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D69573F3-AF14-41BB-A772-5E1BB72E770F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D69573F3-AF14-41BB-A772-5E1BB72E770F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{069234FD-1435-449C-9367-3E599A335A0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{069234FD-1435-449C-9367-3E599A335A0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{069234FD-1435-449C-9367-3E599A335A0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{069234FD-1435-449C-9367-3E599A335A0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E70A43D9-EF70-4977-85EE-9B3ECD947133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E70A43D9-EF70-4977-85EE-9B3ECD947133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E70A43D9-EF70-4977-85EE-9B3ECD947133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E70A43D9-EF70-4977-85EE-9B3ECD947133}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
